@@ -1,0 +1,477 @@
+date,diary,emotion,entry,text_emotion,face_emotion,wellbeing
+2025-07-24,"date,diary,emotion
+2025-07-15,""I felt really anxious about my college exams. I couldn't sleep well."",Anxious
+2025-07-16,""Had a fun evening with friends. We played games and laughed a lot."",Happy
+2025-07-17,""I feel so hopeless. Nothing seems to go right. I don't want to talk to anyone."",Sad
+2025-07-18,""Worked on a new project. It was interesting and kept me engaged."",Neutral
+2025-07-19,""I had a fight with my brother. Feeling very angry and irritated."",Angry
+2025-07-20,""Everything feels dull. I don't feel like doing anything. Maybe I'm depressed."",Frustrated
+2025-07-21,""Helped my mom in the kitchen. It was peaceful and calming."",Happy
+2025-07-22,""I feel like I’m worthless and tired of everything. I want to disappear."",Sad
+2025-07-23,""Practiced mindfulness today. It helped me feel a little better."",Neutral
+2025-07-24,""I’m feeling motivated after watching a motivational video."",Happy
+",,,,,
+2025-07-24,"date,diary,emotion
+2025-07-15,""I felt really anxious about my college exams. I couldn't sleep well."",Anxious
+2025-07-16,""Had a fun evening with friends. We played games and laughed a lot."",Happy
+2025-07-17,""I feel so hopeless. Nothing seems to go right. I don't want to talk to anyone."",Sad
+2025-07-18,""Worked on a new project. It was interesting and kept me engaged."",Neutral
+2025-07-19,""I had a fight with my brother. Feeling very angry and irritated."",Angry
+2025-07-20,""Everything feels dull. I don't feel like doing anything. Maybe I'm depressed."",Frustrated
+2025-07-21,""Helped my mom in the kitchen. It was peaceful and calming."",Happy
+2025-07-22,""I feel like I’m worthless and tired of everything. I want to disappear."",Sad
+2025-07-23,""Practiced mindfulness today. It helped me feel a little better."",Neutral
+2025-07-24,""I’m feeling motivated after watching a motivational video."",Happy
+",,,,,
+2025-07-24,"date,diary,emotion
+2025-07-15,""I felt really anxious about my college exams. I couldn't sleep well."",Anxious
+2025-07-16,""Had a fun evening with friends. We played games and laughed a lot."",Happy
+2025-07-17,""I feel so hopeless. Nothing seems to go right. I don't want to talk to anyone."",Sad
+2025-07-18,""Worked on a new project. It was interesting and kept me engaged."",Neutral
+2025-07-19,""I had a fight with my brother. Feeling very angry and irritated."",Angry
+2025-07-20,""Everything feels dull. I don't feel like doing anything. Maybe I'm depressed."",Frustrated
+2025-07-21,""Helped my mom in the kitchen. It was peaceful and calming."",Happy
+2025-07-22,""I feel like I’m worthless and tired of everything. I want to disappear."",Sad
+2025-07-23,""Practiced mindfulness today. It helped me feel a little better."",Neutral
+2025-07-24,""I’m feeling motivated after watching a motivational video."",Happy
+",Sad,,,,
+2025-07-24 17:19:28,,,Feeling Distressed,neutral,neutral,
+2025-07-24 17:20:28,,,Feeling to cut my hand,neutral,neutral,
+2025-07-24 17:21:10,,,Feeling depressed,neutral,angry,
+2025-07-24 17:22:11,,,Feeling depressed,neutral,neutral,
+2025-07-24 17:23:01,,,I feeling angry,sad,neutral,
+2025-07-24 17:24:19,,,I feeling angry,sad,fear,
+2025-07-24 17:53:26,,,I'm feeling distressed,neutral,fear,Inconsistent
+2025-07-24 17:54:04,,,I'm feeling distressed,neutral,fear,Inconsistent
+2025-07-24 17:54:34,,,I'm feeling distressed,neutral,fear,Inconsistent
+2025-07-24 17:56:42,,,I'm feeling embrassed,neutral,neutral,Stable
+2025-07-24 17:57:08,,,I'm feeling embrassed,neutral,neutral,Stable
+2025-07-24 17:58:28,,,I'm feeling very stressful,neutral,sad,Inconsistent
+2025-07-24 17:58:49,,,I'm feeling very stressful,neutral,sad,Inconsistent
+2025-07-24 18:06:55,,,I'm very bad and feeling suicide,sad,neutral,Inconsistent
+2025-07-24 18:07:06,,,I'm very bad and feeling suicide,sad,neutral,Inconsistent
+2025-07-24 18:07:12,,,I'm very bad and feeling suicide,sad,neutral,Inconsistent
+2025-07-24 18:13:09,,,I'm feeling distressed,neutral,sad,Inconsistent
+2025-07-24 18:14:31,,,I'm feeling distressed,neutral,sad,Inconsistent
+2025-07-24 18:14:35,,,I'm feeling distressed,neutral,sad,Inconsistent
+2025-07-24 18:14:46,,,I'm feeling distressed,neutral,sad,Inconsistent
+2025-07-24 18:29:45,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,neutral,Stable
+2025-07-24 18:30:05,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,neutral,Stable
+2025-07-24 18:32:49,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,neutral,Stable
+2025-07-24 18:33:02,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,neutral,Stable
+2025-07-24 18:33:47,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,sad,Inconsistent
+2025-07-24 18:34:07,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,sad,Inconsistent
+2025-07-24 18:37:06,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,surprise,Inconsistent
+2025-07-24 18:37:22,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,surprise,Inconsistent
+2025-07-24 18:46:24,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 18:46:44,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 18:50:11,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:19:10,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:19:48,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:19:53,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:24:37,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,sad,Inconsistent
+2025-07-24 19:25:11,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,sad,Inconsistent
+2025-07-24 19:26:15,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:26:27,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:27:26,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:29:05,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent
+2025-07-24 19:36:16,,,"Today felt overwhelming. I couldn't focus on anything and felt really low.
+
+It was a productive day! I managed to complete all my tasks and I feel accomplished.
+
+Not much happened today. Just a regular, neutral day overall.
+
+I had an argument with a friend. It left me feeling anxious and upset.
+
+Spent the evening with family, which really lifted my mood. I feel loved and supported.
+
+Work was exhausting. I feel mentally drained and physically tired.
+
+I took a walk outside and listened to music. It helped calm my thoughts.
+
+Feeling lonely lately. I miss having someone to talk to about my day.
+
+I received good feedback on my project today. It boosted my confidence a lot.
+
+Woke up feeling anxious but journaling helped me understand my thoughts better.
+",neutral,fear,Inconsistent

@@ -1,0 +1,11 @@
+date,diary,emotion
+2025-07-15,"I felt really anxious about my college exams. I couldn't sleep well.",Anxious
+2025-07-16,"Had a fun evening with friends. We played games and laughed a lot.",Happy
+2025-07-17,"I feel so hopeless. Nothing seems to go right. I don't want to talk to anyone.",Sad
+2025-07-18,"Worked on a new project. It was interesting and kept me engaged.",Neutral
+2025-07-19,"I had a fight with my brother. Feeling very angry and irritated.",Angry
+2025-07-20,"Everything feels dull. I don't feel like doing anything. Maybe I'm depressed.",Frustrated
+2025-07-21,"Helped my mom in the kitchen. It was peaceful and calming.",Happy
+2025-07-22,"I feel like I’m worthless and tired of everything. I want to disappear.",Sad
+2025-07-23,"Practiced mindfulness today. It helped me feel a little better.",Neutral
+2025-07-24,"I’m feeling motivated after watching a motivational video.",Happy

@@ -1,0 +1,7 @@
+streamlit
+textblob
+opencv-python-headless
+pyttsx3
+python-docx
+pandas
+deepface
